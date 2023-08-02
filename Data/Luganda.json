@@ -1,0 +1,12 @@
+{
+    "Animals": [
+        {
+            "word": "kapa",
+            "image": "images/cat.png"
+        },
+        {
+            "word": "embwa",
+            "image": "images/download.png"
+        }
+    ]
+}
